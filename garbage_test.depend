@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603118671 source:d:\code blocks files\garbage_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
